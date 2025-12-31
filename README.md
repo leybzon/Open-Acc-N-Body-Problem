@@ -268,4 +268,4 @@ The NVIDIA DGX Spark, powered by the Grace Blackwell GB10 chip, effectively brid
 
 For the mid-level engineer, this confirms that the DGX Spark is not just a training inference engine, but a capable scientific simulation platform accessible directly from the desk.
 
-**
+
